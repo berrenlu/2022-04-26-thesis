@@ -1,2 +1,2 @@
 # my thesis
-this is my cool thesis
+this is my thesis about library sciences
